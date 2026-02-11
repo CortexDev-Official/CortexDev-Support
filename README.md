@@ -1,6 +1,7 @@
 # CortexDev-Support
 Official issue tracker for CortexDev modpacks. Report bugs and suggest features here
-
+( https://github.com/CortexDev-Official/CortexDev-Support/issues )
+م
 ------------------------------------------------------------------------------
 Below is an explanation of each modpack I made:
 
