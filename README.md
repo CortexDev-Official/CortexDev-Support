@@ -32,6 +32,8 @@ What you get:
 
    And Much More...
 
+   License: All Rights Reserved
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Calvin's Survival Experience
@@ -42,6 +44,8 @@ Calvin's Survival Experience
 Ever watched Calvin and wished you could play exactly like him? Well, now you can! I put this modpack together to bring you the same vibe, (almost) the same mods, and that same intense atmosphere you see in his videos. It’s all set up and ready to go—just jump in and see if you can survive as long as he does.
 
 Note!: I have no collaboration with YouTuber Calvin; this Modpack is fan-made.
+
+License: All Rights Reserved
 
 
 -------------------------------------
