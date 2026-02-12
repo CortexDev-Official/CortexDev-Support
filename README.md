@@ -32,7 +32,7 @@ What you get:
 
    And Much More...
 
-  VortexCraft License: All Rights Reserved
+  VortexCraft License: All Rights Reserved (ARR)
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -45,7 +45,7 @@ Ever watched Calvin and wished you could play exactly like him? Well, now you ca
 
 Note!: I have no collaboration with YouTuber Calvin; this Modpack is fan-made.
 
-Calvin's Survival Experience License: All Rights Reserved
+Calvin's Survival Experience License: All Rights Reserved (ARR)
 
 
 -------------------------------------
