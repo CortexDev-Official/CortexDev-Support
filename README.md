@@ -12,7 +12,7 @@ Below is an explanation of each modpack I made:
 
 
 # VortexCraft 
-( https://modrinth.com/modpack/vortexcraft )
+Link: ( https://modrinth.com/modpack/vortexcraft )
 
 Extreme FPS optimization and universal server support, by CortexDev. Play smooth, connect anywhere
 
