@@ -3,6 +3,10 @@ Official issue tracker for CortexDev modpacks. Report bugs and suggest features 
 
 ( https://github.com/CortexDev-Official/CortexDev-Support/issues )
 
+My Accounts:
+
+My Github Account: https://github.com/CortexDev-Official
+
 My Modrinth Account: https://modrinth.com/user/CortexDev
 
 My CurseForge Account: https://www.curseforge.com/members/cortexdev
