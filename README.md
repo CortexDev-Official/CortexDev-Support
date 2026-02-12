@@ -7,6 +7,10 @@ My Modrinth Account: https://modrinth.com/user/CortexDev
 
 My CurseForge Account: https://www.curseforge.com/members/cortexdev
 
+My Youtube Account: https://www.youtube.com/@CortexDev-official
+
+My X ( Twitter ) Account: https://x.com/CortexDev_Net
+
 ------------------------------------------------------------------------------
 Below is an explanation of each modpack I made:
 
