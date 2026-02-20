@@ -5,15 +5,15 @@ Official issue tracker for CortexDev modpacks. Report bugs and suggest features 
 
 My Accounts:
 
-My Github Account: https://github.com/CortexDev-Official
+My **Github** Account: https://github.com/CortexDev-Official
 
-My Modrinth Account: https://modrinth.com/user/CortexDev
+My **Modrinth** Account: https://modrinth.com/user/CortexDev
 
-My CurseForge Account: https://www.curseforge.com/members/cortexdev
+My **CurseForge** Account: https://www.curseforge.com/members/cortexdev
 
-My Youtube Account: https://www.youtube.com/@CortexDev-official
+My **Youtube** Account: https://www.youtube.com/@CortexDev-official
 
-My X ( Twitter ) Account: https://x.com/CortexDev_Net
+My X ( **Twitter** ) Account: https://x.com/CortexDev_Net
 
 ------------------------------------------------------------------------------
 ## Below is an explanation of each modpack I made:
