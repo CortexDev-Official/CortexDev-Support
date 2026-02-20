@@ -41,7 +41,7 @@ What you get:
 
 4. **Lightweight**: Delivered as a **.mrpack** for a quick and **easy** setup
 
-   [Learn More...](https://vortexcraft.netlify.app/)
+   [Learn More...](https://vortexcraft.pages.dev)
 
 ## Enjoy!
   VortexCraft License: **All Rights Reserved (ARR)**
