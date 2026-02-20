@@ -26,22 +26,24 @@ Link: ( https://modrinth.com/modpack/vortexcraft )
 
 Extreme FPS optimization and universal server support, by CortexDev. Play smooth, connect anywhere
 
-VortexCraft: Simple, Fast, and Optimized
 
-I built VortexCraft because I wanted a modpack that just works. No bloat, no unnecessary mods—just pure performance and the best FPS possible for your machine.
+**VortexCraft**: Simple, Fast, and Optimized
+
+I built **VortexCraft** because I wanted a modpack that just works. No **bloat**, no **unnecessary mods**—just pure **performance and the best FPS possible for your machine.**
 
 What you get:
 
-1. Maximum FPS: Uses the latest optimization mods like Sodium and Lithium to keep things smooth
+1. **Maximum FPS**: Uses the latest optimization mods like **Sodium** and **Lithium** to keep things smooth
 
-2. Play Anywhere: Connect to almost any server version without switching packs
+2. **Play Anywhere**: Connect to almost **any server version** without switching packs
 
-3. Better Stability: Every mod is picked to ensure your game doesn't crash during sessions
+3. B**etter Stability**: Every mod is picked to ensure your game doesn't crash during sessions
 
-4. Lightweight: Delivered as a .mrpack for a quick and easy setup
+4. **Lightweight**: Delivered as a **.mrpack** for a quick and **easy** setup
 
-   And Much More...
+   [Learn More...](https://vortexcraft.netlify.app/)
 
+## Enjoy!
   VortexCraft License: All Rights Reserved (ARR)
 
 
