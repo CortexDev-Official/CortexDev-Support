@@ -74,4 +74,4 @@ Calvin's Survival Experience License: **All Rights Reserved (ARR)**
 
 Is Coming Soon In Modrinth...
 
-[Calvin's Broken Script WebSite](https://vortexcraft.pages.dev/)
+[Calvin's Broken Script WebSite](https://calvin-tbs.pages.dev/)
