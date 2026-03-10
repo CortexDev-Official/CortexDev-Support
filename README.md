@@ -73,8 +73,62 @@ Calvin's Survival Experience License: **All Rights Reserved (ARR)**
 
 -------------------------------------
 
-# C̷̰̑͛̉̉͒̿̈́̚͝͠a̷̛̛̟̿͒͌̇͆̄͛͝͝͝l̷͕̄̉̐͗̾̀͘̚͝͠͝͠v̷̛̰́̽͑̅̾̿̉͝͝͝ḭ̷̛́̽͑̅̾̿̉͝͝͝ń̷̛̰̽͑̅̾̿̉͝͝͝'ś̷̛̰̽͑̅̾̿̉͝͝͝ ̷̛̰́̽͑̅̾̿̉͝͝͝B̷̛̰́̽͑̅̾̿̉͝͝͝ŕ̷̛̰̽͑̅̾̿̉͝͝͝ớ̷̰̽͑̅̾̿̉͝͝͝ḱ̷̛̰̽͑̅̾̿̉͝͝͝ḛ̷̛́̽͑̅̾̿̉͝͝͝ń̷̛̰̽͑̅̾̿̉͝͝͝ ̷̛̰́̽͑̅̾̿̉͝͝͝Ś̷̛̰̽͑̅̾̿̉͝͝͝ć̷̛̰̽͑̅̾̿̉͝͝͝ŕ̷̛̰̽͑̅̾̿̉͝͝͝ḭ̷̛́̽͑̅̾̿̉͝͝͝ṕ̷̛̰̽͑̅̾̿̉͝͝͝t̷̛̰́̽͑̅̾̿̉͝͝͝ 
+# Calvin's Broken Script
 
-Is Coming Soon In Modrinth...
+![Calvin's Broken Script](https://cdn.modrinth.com/data/cached_images/13ae37ce65430bb3721b62856b02d0eba9dd7469.png)
+
+A compilation of Calvin's mods from his series: The Broken Script
+
+Link: https://modrinth.com/modpack/calvins-broken-script
 
 [Calvin's Broken Script WebSite](https://calvin-tbs.pages.dev/)
+
+
+
+A modpack inspired by **Calvin’s 'The Broken Script' series**. It focuses on recreating the same mysterious atmosphere and hardcore survival experience seen in the videos, with added performance optimizations for a smooth gameplay experience. This pack is designed for both Client and Server use
+
+---------------------------------
+The world they built. The world they hate.
+----------------
+![The Broken Script](https://cdn.modrinth.com/data/cached_images/d61bc36929790e1c88b2e97ed21eebfc62430f55.webp)
+
+---------------------------------------------------------------
+**THINGS YOU WANT TO KNOW BEFORE PLAYING**
+
+• Mod can **ban** you from your world
+
+• Mod can **crash** the game
+
+• Mod can **create txts** on your desktop
+
+• Mod can **shake** your game window
+
+• Mod can **create custom error popups** on your desktop
+
+• Mod WILL **grief** your world
+
+• Mod WILL **destroy** your buildings
+
+• DO NOT PLAY THIS MOD WITH SHADERS THAT CHANGE TEXTURE OF THE MOON
+
+• DO NOT PLAY THIS MOD WITH WORLD GEN MODS! (Some events will break right now)
+   
+
+The Broken Script is a **(VERY) slow** horror mod that will try to make you feel paranoid. There are random events, few entities and anomalies (and much more)
+
+To access mod config use /tbs_config
+
+----------------------------------------------------
+Special T H A N K S ✧( ु•⌄• ) To the Creators Of this mod
+
+------------------------------------------------
+
+Technical Note: 
+------
+This Modpack by CortexDev, this pack is configured for both Client and Server performance. 
+
+Important Note!: I have no affiliation with The Youtber "Calvin" And the developers of [The Broken Script](https://modrinth.com/mod/the-broken-script) Mod,If Calvin tells me To Take Down(Remove) this modpack, I will do so. this modpack is fan-made.
+
+VortexCraft License: **All Rights Reserved (ARR)**
+
+----------------
