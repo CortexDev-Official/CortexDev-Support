@@ -129,6 +129,7 @@ This Modpack by CortexDev, this pack is configured for both Client and Server pe
 
 Important Note!: I have no affiliation with The Youtber "Calvin" And the developers of [The Broken Script](https://modrinth.com/mod/the-broken-script) Mod,If Calvin tells me To Take Down(Remove) this modpack, I will do so. this modpack is fan-made.
 
-VortexCraft License: **All Rights Reserved (ARR)**
+Calvin's Broken Script License: **All Rights Reserved (ARR)**
+
 
 ----------------
