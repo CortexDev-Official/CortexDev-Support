@@ -133,3 +133,43 @@ Calvin's Broken Script License: **All Rights Reserved (ARR)**
 
 
 ----------------
+
+## Calvin's wonderland.jar
+
+![Calvin's Wonderland.jar](https://cdn.modrinth.com/data/cached_images/1963d182927a448e9dff2c06d868246e239b17f7.png)
+
+A compilation of YouTuber Calvin's mods from his series: wonderland.jar
+
+Link: https://modrinth.com/modpack/calvins-wonderland.jar
+
+[Calvin's wonderland.jar WebSite](https://calvin-wonderland-jar.pages.dev/)
+
+There is something wrong with this world... and it's coming for you.
+
+This modpack is built around the terrifying wonderland.jar experience made famous by Calvin. If you’ve seen the series, you know exactly what this is. This isn't your typical horror pack—it's a specialized survival nightmare where the environment itself is your enemy, and a relentless entity is always one step behind you.
+
+I designed this pack to perfectly mirror the atmosphere of the "Wonderland" series., the eerie silence, and that constant feeling that you are being hunted. I’ve kept it streamlined and focused on the core wonderland.jar mod to ensure the most authentic experience possible.
+
+------------------
+
+This mod adds multiple strange entities: no_one, Fate, Someone, Pillar and Sorrow, these entities will stalk you and eventually they will try to take you into a "wonderland"
+
+"Wonderland" is a liminal dimension similar to backrooms, for now it has 25 levels and 32 entities
+
+Though even if you escape their "wonderland" things in your world may get worse...
+
+-------------------------
+
+[WonderLand.jar](https://modrinth.com/mod/wonderland-jar) is supposed to be slow-burn and it is EXTREMELY random, in some worlds you'll get taken to "wonderland" on 2nd ingame day, in others it'll take 15 ingame days for anything to happen
+
+-----------------------------------------
+
+Special T H A N K S ✧( ु•⌄• ) To the Creators Of this mod
+
+------------------------------------------
+
+Technical Note: 
+------
+This Modpack by CortexDev, this pack is configured for both Client and Server performance. 
+
+Important Note!: I have no affiliation with The Youtber "[Calvin](https://www.youtube.com/@Calvin9000)" And the developer "[alexander.25.k](https://modrinth.com/user/alexander.25.k)",If [Calvin](https://www.youtube.com/@Calvin9000) Or "[alexander.25.k](https://modrinth.com/user/alexander.25.k)" tells me To Take Down (Remove) this modpack, I will do so. this modpack is fan-made.
