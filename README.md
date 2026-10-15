@@ -173,3 +173,7 @@ Technical Note:
 This Modpack by CortexDev, this pack is configured for both Client and Server performance. 
 
 Important Note!: I have no affiliation with The Youtber "[Calvin](https://www.youtube.com/@Calvin9000)" And the developer "[alexander.25.k](https://modrinth.com/user/alexander.25.k)",If [Calvin](https://www.youtube.com/@Calvin9000) Or "[alexander.25.k](https://modrinth.com/user/alexander.25.k)" tells me To Take Down (Remove) this modpack, I will do so. this modpack is fan-made.
+
+
+
+- And even more modpacks
